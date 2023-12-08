@@ -4,17 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=BoostKernel for Samsung Galaxy M23. By Mrsiri
+kernel.string=BoostKernel for Moto G6 Plus. By Mrsiri
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=m23xq
-device.name2=m23xq
-device.name3=m23xq
-device.name4=m23xq
-device.name5=m23xq
+device.name1=evert
+device.name2=msm8953
+device.name3=sdm450
 supported.versions=
 supported.patchlevels=
 supported.vendorpatchlevels=
