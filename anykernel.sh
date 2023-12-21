@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=jeter
-device.name2=aljeter
-device.name3=jeter
-device.name4=alijeter
-device.name5=jeter
+device.name1=evert
+device.name2=evert
+device.name3=evert
+device.name4=evert
+device.name5=evert
 supported.versions=
 supported.patchlevels=
 '; } # end properties
